@@ -81,6 +81,8 @@ nav ul li a:hover{
 #content-body{
     margin-top: 100px;
     display: flex;
+    justify-content: space-between;
+    margin:auto;
 }
 #left{
     margin-right: 150px;
