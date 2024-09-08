@@ -1,0 +1,450 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    width: 100%;
+    height: auto;
+    background: #ffffff;
+}
+#head{
+    background: #04243e;
+    width: auto;
+    height: 700px;
+    color: #fff;
+    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Group%201261153005.svg);
+    background-repeat: no-repeat;
+    background-position: absolute;
+    background-position-x: 1220px ;
+    border: 0;
+}
+#top-head{
+    width: auto;
+    height: 65px;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 85px;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 15px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+}
+nav ul li a:hover{
+    font-weight: 800;
+    color: #aa915e;
+}
+#down-head h1{
+    text-align: center;
+    font-weight: 400;
+    line-height: 109px;
+    font-size: 80px;
+    color: #aa915e;
+    margin-bottom: 20px;
+}
+#down-head p{
+    text-align: center;
+    font-weight: 400;
+    line-height: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+#content-back{
+    background: #04243e;
+}
+#content{
+    background: #fff;
+    border-radius: 200px 200px 0 0;
+    padding-top: 120px;
+    height: auto;
+    padding: 80px;
+}
+#content h2{
+    color: #04243e;
+    font-weight: 600;
+    line-height: 54.64px;
+    font-size: 40px;
+    margin-bottom: 80px;
+}
+#content h1{
+    color: #04243e;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 600;
+    line-height: 59.52px;
+    font-size: 48px;
+    margin-bottom: 50px;
+}
+#img{
+    display: flex;
+    margin: auto;
+    max-width: 1140px;
+}
+#content-p{
+    margin-left: 130px;
+    margin-right: 50px;
+}
+#content-p h3{
+    font-size: 32.62px;
+    line-height: 42.31px;
+    font-weight: 400;
+    color: #04243e;
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#content-p p{
+    font-size: 16px;
+    line-height: 26.4px;
+    font-weight: 400;
+    color: #04243e;
+}
+#content-div-2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+}
+#left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+}
+#left #img-1 {
+    position: absolute;
+}
+#right h4{
+    font-weight: 700;
+    font-size: 19.57px;
+    line-height: 25.38px;
+    color: #04243e;
+    margin-bottom: 10px;
+}
+#right p{
+    font-weight: 400;
+    font-size: 14.35px;
+    line-height: 22.52px;
+    color: #04243e;
+    margin-bottom: 10px;
+}
+#content-latest-blogs{
+    background: #fff;
+    padding: 0px;
+}
+#content-latest-blogs h2{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 54.64px;
+    color: #04243e;
+    margin-bottom: 100px;
+}
+#content-div{
+    display: flex;
+}
+#blogs-left div {
+    display: flex;
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 80px;
+}
+#blogs-left div img{
+    max-width: 600px;
+    margin-bottom: 20px;
+    border-radius: 28px;
+}
+#blogs-left div button{
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    padding: 8.94px 59.6px 8.94px 59.6px;
+    border: 0;
+    color: #fff;
+    background: #aa915e;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    text-align: center;
+}
+#blogs-right div img{
+    max-width: 600px;
+    margin-bottom: 20px;
+    border-radius: 28px;
+}
+#blogs-left p{
+    font-weight: 400;
+    font-size: 14.62px;
+    line-height: 22.94px;
+    color: #04243e;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#blogs-left h3{
+    font-weight: 400;
+    font-size: 23.26px;
+    line-height: 30.17px;
+    color: #2b4248;
+    text-align: center;
+    text-transform: capitalize;
+}
+#blogs-right p{
+    font-weight: 400;
+    font-size: 14.62px;
+    line-height: 22.94px;
+    color: #04243e;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#blogs-right h3{
+    font-weight: 400;
+    font-size: 23.26px;
+    line-height: 30.17px;
+    color: #2b4248;
+    text-align: center;
+    text-transform: capitalize;
+}
+#subscribe-back{
+    background: #ffffff;
+}
+#Subscribe{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px;
+    color: #ffffff;
+    background: #04243e;
+    border-radius: 0 0 200px 0;
+}
+#subscribe-back{
+    background: #ffffff;
+}
+#Subscribe{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px;
+    color: #ffffff;
+    background: #04243e;
+    border-radius: 0 0 200px 0;
+}
+#Subscribe h2{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 44px;
+    color: #ffffff;
+    max-width: 518px;
+}
+#Subscribe-search{
+    width: 500px;
+    border-radius: 10px;
+    border: 2px solid #172D5A;
+    font-size: 22px;
+    line-height: 34.52px;
+    font-weight: 400;
+    width: 290px;
+    height: 60px;
+    margin-right: 20px;
+    padding-left: 15px;
+}
+#Subscribe-btn{
+    text-align: center;
+    border: 0;
+    background: #aa915e;
+    color: #fff;
+    width: 170px;
+    height: 65px;
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 500;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+#footer-background{
+    background: #04243e;
+}
+#footer{
+    background: #fff;
+    padding: 80px;
+    border-radius: 200px 0 0 0;
+    color: #04243e;
+}
+#footer-top{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+#footer-div1{
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 16.34px;
+    max-width: 225px;
+    height: 200px;
+}
+#footer-div1 img{
+    margin-bottom: 25px;
+}
+#footer-div2 h2{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24.59px;
+    margin-bottom: 20px;
+}
+#footer-div2{
+    height: 120px;
+}
+#footer-div2 a{
+    text-decoration: none;
+    color: #04243e;
+    font-weight: 600;
+    font-size: 13.5px;
+    line-height: 16.34px;
+}
+#footer-div2 div{
+    margin-bottom: 10px;
+}
+#footer-div3 h2{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24.59px;
+    margin-bottom: 20px;
+}
+#footer-div3 div{
+    display: flex;
+    margin-bottom: 20px;
+}
+#footer-div3 img {
+    margin-right: 10px;
+}
+#footer-div3{
+    height: 200px;
+}
+#footer-div3 a{
+    text-decoration: none;
+    color: #04243e;
+    font-weight: 600;
+    font-size: 13.5px;
+    line-height: 16.34px;
+}
+#footer-div4{
+    height: 200px;
+}
+#footer-div4 h2{
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 24.59px;
+    margin-bottom: 20px;
+}
+#footer-div4 p{
+    font-weight: 600;
+    font-size: 13.5px;
+    line-height: 16.34px;
+    margin-bottom: 20px;
+}
+hr{
+    margin-bottom: 50px;
+    border: 2px solid #04243e;
+}
+#footer-footer{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 13.5px;
+    line-height: 16.34px;
+
+}
+#footer-footer img{
+    margin-right: 10px;
+}
+@media (min-width:1250px) and (max-width:1360px){
+    #content-div{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #content-div div{
+        margin: auto;
+    }
+    #content-latest-blogs{
+        padding: 0;
+    }
+    #content-latest-blogs h2{
+        text-align: center;
+    }
+}
+@media (max-width:1250px){
+    #top-head{
+    padding: 25px;
+    padding-bottom: 0;
+    }
+    nav ul li a{
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 200;
+    }
+    nav ul li a:hover{
+        font-weight: 400;
+    }
+    #content{
+        padding: 0;
+    }
+    #content h2{
+        padding-left: 0;
+        text-align: center;
+        padding-top: 80px;
+    }
+    #img{
+        max-width: 450px;
+    }
+    #content h1{
+        font-weight: 600;
+        line-height: 50px;
+        font-size: 45px;
+        margin-bottom: 50px;
+    }
+    #content-p{
+        text-align: center;
+        margin: 0;
+    }
+    #content-div{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #content-div div{
+        margin: auto;
+        margin-bottom: 25px;
+    }
+    #content-latest-blogs h2{
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    #content-latest-blogs{
+        padding: 0;
+    }
+    #blogs-left div img{
+        max-width: 450px;
+    }
+    #blogs-right div img{
+        max-width: 450px;
+    }
+    #Subscribe{
+        display: block;
+        padding: 50px;
+    }
+    #Subscribe h2{
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+}
