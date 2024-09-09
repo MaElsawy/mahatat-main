@@ -214,6 +214,7 @@ span{
     line-height: 54.64px;
     color: #04243e;
     margin-bottom: 20px;
+    max-width: 500px;
 }
 #left button{
     font-weight: 600;
@@ -240,6 +241,7 @@ span{
     line-height: 54.64px;
     color: #04243e;
     margin-bottom: 20px;
+    max-width: 500px;
 }
 #left-1 button{
     font-weight: 600;
@@ -449,10 +451,16 @@ hr{
     #left p{
         margin: auto;
     }
+    #left h2{
+        margin: auto;
+    }
     #left button{
         margin-bottom: 50px;
     }
     #left-1 p{
+        margin: auto;
+    }
+    #left-1 h2{
         margin: auto;
     }
     #left-1 button{
