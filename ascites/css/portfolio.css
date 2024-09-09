@@ -258,70 +258,32 @@ hr{
         margin-left: 185px;
         max-width: 250px;
     }
-    #div-1 img{
-        position: absolute;
-        border-radius: 30px;
-    }
     #div-2{
         display: flex;
         justify-content: center;
-        margin-right: 420px;
-        max-width: 250px;
-    }
-    #div-2 img{
-        position: absolute;
-        border-radius: 30px;
+        margin-right: 190px;
     }
     #div-3{
-        text-align: center;
-        margin-top: 215px;
+        margin-top: 240px;
     }
     #div-3 h2{
-        font-size: 40px;
-        line-height: 54.64px;
-        font-weight: 300;
-        opacity: 52%;
-        color: #aa915e;
-        text-transform: capitalize;
+        font-size: 37px;
     }
     #div-3 h3{
-        font-size: 40px;
-        line-height: 54.64px;
-        font-weight: 800;
-        color: #aa915e;
-        text-transform: capitalize;
-    
+        font-size: 37px;
     }
     #div-4{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top: 110px;
-        margin-left: 590px;
-    }
-    #div-4 img{
-        position: absolute;
-        border-radius: 30px;
+        align-items: start;
+        margin-top: 0px;
+        margin-left: 160px;
     }
     #div-5{
-        display: flex;
-        justify-content: center;
-        margin-right: 610px;
-    }
-    #div-5 img{
-        position: absolute;
-        border-radius: 30px;
+        margin-right: 175px;
+        margin-top: 275px;
     }
     #div-6{
-        display: flex;
-        justify-content: center;
-        margin-top: 250px;
+        margin-top: 255px;
     }
-    #div-6 img{
-        position: absolute;
-        border-radius: 30px;
-    }
-
 }
 @media(max-width:862px){
     #top-head{
