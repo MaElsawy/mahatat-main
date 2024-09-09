@@ -14,13 +14,13 @@ body{
 #head{
     background: #04243e;
     width: auto;
-    height: 700px;
     color: #fff;
     background-image: url(mahatat-main/ascites/imgs/Group%201261153005.svg) !important ;
     background-repeat:no-repeat;
     background-position: absolute;
     background-position-x: 1220px ;
     border: 0;
+    padding-bottom: 100px;
 }
 #top-head{
     width:auto;
@@ -71,7 +71,8 @@ nav ul li a:hover{
     background: #fff;
     border-radius: 200px 200px 200px 0;
     padding: 80px;
-    padding-top: 120px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 #content h2{
     color: #04243e;
@@ -80,10 +81,10 @@ nav ul li a:hover{
     font-size: 40px;
 }
 #content-body{
-    margin-top: 100px;
     display: flex;
     justify-content: center;
     margin:auto;
+    margin-top: 100px;
 }
 #left{
     margin-right: 150px;
@@ -226,8 +227,7 @@ hr{
         line-height: 20px ;
     }
     #content {
-        padding: 50px ;
-        padding-top:120px;
+        padding-top:100px;
         padding-bottom:100px;
     }
     #content h2{
