@@ -145,6 +145,10 @@ nav ul li a:hover{
     font-weight: 500;
     margin-bottom: 20px;
 }
+#About-us-div-left-btn a{
+    text-decoration: none;
+    color: #fff;
+}
 #About-us-div-left-btn{
     padding: 11.25px 75px 11.25px 75px;
     max-width: 321px;
