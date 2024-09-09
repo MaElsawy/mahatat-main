@@ -360,10 +360,6 @@ hr{
     max-width: 460px;
     height: 727px;
 }
-#our-services-left-btn a{
-    text-decoration: none;
-    color: #fff;
-}
 #our-services-right-btn{
     width: 465px;
     height: 154px;
@@ -423,6 +419,10 @@ hr{
     max-width: 600px;
     margin-bottom: 30px;
     text-transform: capitalize;
+}
+#our-services-left button a{
+    text-decoration: none;
+    color: #fff;
 }
 #our-services-left button{
     font-weight: 600;
