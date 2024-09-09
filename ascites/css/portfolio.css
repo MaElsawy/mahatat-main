@@ -240,9 +240,11 @@ hr{
     #content{
         background: #fff;
         border-radius: 200px 200px 200px 0;
-        padding: 80px;
+        padding: 0px;
         padding-top: 120px;
-        height: 1250px;
+        height: 1570px;
+        padding-top: 100px;
+        padding-bottom: 100px;
     }
     #content h1{
         color: #04243e;
