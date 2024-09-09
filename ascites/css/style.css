@@ -13,7 +13,7 @@ body{
 #head{
     background: #04243e;
     width: auto;
-    height: 800px;
+    height: 730px;
     border-radius: 0 0 200px 0;
     color: #fff;
     background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Group%201261153005.svg) !important ;
@@ -66,10 +66,10 @@ nav ul li a:hover{
     font-size: 35px;
     line-height: 45px;
     text-transform: uppercase;
-
 }
 #head-btn{
     margin-top: 50px;
+    margin-bottom: 50px;
     width: 340px;
     height: 80px;
     border-radius: 8px;
@@ -82,6 +82,11 @@ nav ul li a:hover{
     font-size: 20px;
     line-height: 30px;
     text-transform: capitalize;
+}
+#logo-head{
+    display: flex;
+    justify-content: end;
+    padding-right: 80px;
 }
 #about-us-background{
     background: #04243e;
@@ -671,7 +676,6 @@ hr{
     #contact-us-btn img{
         margin-left: 10px;
     }
-
 }
 @media (max-width:1410px){
     #our-services{
@@ -886,14 +890,13 @@ hr{
         margin: 0 12.8px;
     }
     #head{
-        height: auto;
         padding: 80px;
     }
     #our-services h1{
         padding-top: 50px;
     }
 }
-@media (max-width:1000px ){
+@media (max-width:1000px){
     #view-more{
         padding-bottom: 50px;
         padding-top: 50px;
@@ -964,5 +967,21 @@ hr{
         font-weight: 400;
         margin-bottom: 10px;
         max-width: 750px;
+    }
+    #head{
+        height: auto;
+    }
+    #logo-head{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-right: 0;
+    }
+    #logo-head img {
+        position: absolute;
+        margin-top: 50px;
+    }
+    #head-btn{
+        margin-bottom: 150px;
     }
 }
