@@ -16,7 +16,7 @@ body{
     height: 800px;
     border-radius: 0 0 200px 0;
     color: #fff;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Group%201261153005.svg);
+    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Group%201261153005.svg) !important ;
     background-repeat: no-repeat;
     background-position: absolute;
     background-position-x: 1220px ;
