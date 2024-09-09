@@ -469,17 +469,13 @@ hr{
         color: #04243e;
     }
     #left p{
-        font-weight: 400;
-        font-size: 15.27px;
-        line-height: 27.14px;
-        color: #04243e;
-        max-width: 100%;
+        margin: auto;
     }
     #left button{
         margin-bottom: 50px;
     }
     #left-1 p{
-        max-width: 100%;
+        margin: auto;
     }
     #left-1 button{
         margin-bottom: 50px;
