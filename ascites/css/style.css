@@ -118,6 +118,8 @@ nav ul li a:hover{
     padding-bottom: 50px;
     padding-right: 80px;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #About-us-div-left{
     max-width: 526px;
@@ -173,6 +175,7 @@ nav ul li a:hover{
 }
 #About-us-footer div{
     max-width: 240px;
+    margin: auto;
 }
 #About-us-footer div h2 {
     font-weight: 700;
@@ -337,7 +340,7 @@ hr{
 }
 #our-services-top{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin-top: 100px;
     margin-bottom: 250px;
 }
