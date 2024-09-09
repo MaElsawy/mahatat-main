@@ -76,30 +76,30 @@ nav ul li a:hover{
     font-weight: 600;
     line-height: 54.64px;
     font-size: 40px;
+    margin-bottom: 100px;
 }
-#content hr{
-    max-width: 60px;
-    height: 3px;
-    border-radius: 20px;
-    background: #04243e;
-    border: 0;
-    margin-bottom: 80px;
+#div-1{
+    display: flex;
+    justify-content: center;
+    margin-left: 385px;
+    margin-bottom: 110px;
 }
 #div-1 img{
     position: absolute;
-    left: 820px;
     border-radius: 30px;
-    top: 968px;
+}
+#div-2{
+    display: flex;
+    justify-content: center;
+    margin-right: 610px;
 }
 #div-2 img{
     position: absolute;
-    left: 280px;
-    top: 1064px;
     border-radius: 30px;
 }
 #div-3{
     text-align: center;
-    margin-top: 420px;
+    margin-top: 215px;
 }
 #div-3 h2{
     font-size: 40px;
@@ -117,23 +117,34 @@ nav ul li a:hover{
     text-transform: capitalize;
 
 }
+#div-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+    margin-left: 590px;
+}
 #div-4 img{
     position: absolute;
-    left: 900px;
     border-radius: 30px;
-    top: 1486px;
+}
+#div-5{
+    display: flex;
+    justify-content: center;
+    margin-right: 610px;
 }
 #div-5 img{
     position: absolute;
-    left: 265px;
     border-radius: 30px;
-    top: 1581.58px;
+}
+#div-6{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
 }
 #div-6 img{
     position: absolute;
-    left: 625px;
     border-radius: 30px;
-    top: 1836px;
 }
 #footer-background{
     background: #fff;
@@ -225,25 +236,45 @@ hr{
 #footer-footer img{
     margin-right: 10px;
 }
-@media (min-width:863px) and (max-width:1300px){
+@media(max-width:1102px){
     #content{
+        background: #fff;
+        border-radius: 200px 200px 200px 0;
+        padding: 80px;
         padding-top: 120px;
+        height: 1250px;
+    }
+    #content h1{
+        color: #04243e;
+        font-weight: 600;
+        line-height: 54.64px;
+        font-size: 40px;
+        text-align: center;
+    }
+    #div-1{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 2450px;
+        margin-left: 185px;
+        max-width: 250px;
     }
     #div-1 img{
         position: absolute;
-        left: 600px;
         border-radius: 30px;
-        top: 968px;
+    }
+    #div-2{
+        display: flex;
+        justify-content: center;
+        margin-right: 420px;
+        max-width: 250px;
     }
     #div-2 img{
         position: absolute;
-        left: 20px;
-        top: 1064px;
         border-radius: 30px;
     }
     #div-3{
         text-align: center;
-        margin-top: 420px;
+        margin-top: 215px;
     }
     #div-3 h2{
         font-size: 40px;
@@ -261,24 +292,36 @@ hr{
         text-transform: capitalize;
     
     }
+    #div-4{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 110px;
+        margin-left: 590px;
+    }
     #div-4 img{
         position: absolute;
-        left: 570px;
         border-radius: 30px;
-        top: 1486px;
+    }
+    #div-5{
+        display: flex;
+        justify-content: center;
+        margin-right: 610px;
     }
     #div-5 img{
         position: absolute;
-        left: 25px;
         border-radius: 30px;
-        top: 1581.58px;
+    }
+    #div-6{
+        display: flex;
+        justify-content: center;
+        margin-top: 250px;
     }
     #div-6 img{
         position: absolute;
-        left: 350px;
         border-radius: 30px;
-        top: 1836px;
     }
+
 }
 @media(max-width:862px){
     #top-head{
@@ -292,57 +335,6 @@ hr{
     nav ul li{
         display: inline-block;
         margin: 0 15px;
-    }
-    #down-head h1{
-        text-align: center;
-        font-weight: 400;
-        line-height: 100px;
-        font-size: 75px;
-        color: #aa915e;
-        margin-bottom: 20px;
-    }
-    #content{
-        padding-top: 120px;
-        height: 1600px ;
-    }
-    #div-1 img{
-        position: absolute;
-        left: 195px;
-        border-radius: 30px;
-        top: 968px;
-    }
-    #div-2 img{
-        position: absolute;
-        left: 20px;
-        top: 1225px;
-        border-radius: 30px;
-    }
-    #div-3{
-        text-align: center;
-        margin-top: 600px;
-    }
-    #div-3 h2{
-        font-size: 30px;
-        line-height: 50px;
-    }
-    #div-3 h3{
-        font-size: 30px;
-        line-height: 50px;
-    
-    }
-    #div-4 img{
-        left: 165px;
-        top: 1700px;
-    }
-    #div-5 img{
-        left: 5px;
-        top: 2000px;
-    }
-    #div-6 img{
-        position: absolute;
-        left: 240px;
-        border-radius: 30px;
-        top: 2250px;
     }
 }
 @media (min-width:1024px){

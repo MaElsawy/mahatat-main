@@ -62,6 +62,7 @@ nav ul li a:hover{
     font-weight: 400;
     line-height: 10px;
     font-size: 20px;
+    text-transform: capitalize;
 }
 #content-back{
     background: #04243e;
