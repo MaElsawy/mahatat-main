@@ -473,50 +473,16 @@ hr{
         font-size: 15.27px;
         line-height: 27.14px;
         color: #04243e;
-    }
-    #left h2{
-        font-weight: 600;
-        font-size: 40px;
-        line-height: 54.64px;
-        color: #04243e;
-        margin-bottom: 20px;
+        max-width: 100%;
     }
     #left button{
-        font-weight: 600;
-        font-size: 20px;
-        line-height: 27.32px;
-        text-transform: capitalize;
-        color: #aa915e;
-        border: 0;
-        background: #fff;
-        text-align: center;
-        margin-top: 50px;
-        cursor: pointer;
+        margin-bottom: 50px;
     }
     #left-1 p{
-        font-weight: 400;
-        font-size: 15.27px;
-        line-height: 27.14px;
-        color: #04243e;
-    }
-    #left-1 h2{
-        font-weight: 600;
-        font-size: 40px;
-        line-height: 54.64px;
-        color: #04243e;
-        margin-bottom: 20px;
+        max-width: 100%;
     }
     #left-1 button{
-        font-weight: 600;
-        font-size: 20px;
-        line-height: 27.32px;
-        text-transform: capitalize;
-        color: #aa915e;
-        border: 0;
-        background: #fff;
-        text-align: center;
-        margin-top: 50px;
-        cursor: pointer;
+        margin-bottom: 50px;
     }
     #p-1{
         margin-bottom: 20px;
