@@ -123,6 +123,17 @@ nav ul li a:hover{
     margin-top: 10px;
     text-transform:capitalize;
 }
+
+#Right p span{
+    max-width: 550px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 35px;
+    color: #04243e;
+    margin-top: 10px;
+    text-transform:capitalize;
+    display: block;
+}
 #footer-background{
     background: #fff;
 }
