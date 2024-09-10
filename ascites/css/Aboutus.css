@@ -89,12 +89,12 @@ nav ul li a:hover{
 #left{
     margin-right: 150px;
 }
-#left div{
-    max-width: 490px;
-    text-align: center;
-    border-radius: 0 0 10px 10px;
+#left-img{
+    position: absolute;
+    margin-left: -175px;
+    margin-top: 50px;
 }
-#left div h2{
+#left h2{
     height: 80px;
     line-height: 27.32px;
     font-weight: 600;
@@ -104,10 +104,11 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 0px 0px 20px 20px;
+    border-radius: 0 0 30px 30px;
+    box-shadow: 0px 0px 50px #04243e;
 }
 #Right h3{
-    max-width: 525px;
+    max-width: 550px;
     font-weight: 800;
     font-size: 36px;
     line-height: 49.18px;
@@ -122,6 +123,7 @@ nav ul li a:hover{
     color: #04243e;
     margin-top: 10px;
     text-transform:capitalize;
+    margin: auto;
 }
 #Right p span{
     max-width: 550px;
@@ -132,6 +134,7 @@ nav ul li a:hover{
     margin-top: 10px;
     text-transform:capitalize;
     display: block;
+    margin: auto;
 }
 #footer-background{
     background: #fff;
@@ -241,7 +244,8 @@ hr{
         padding-bottom:100px;
     }
     #content h2{
-        padding-top: 50px;
+        max-width: 320px;
+        margin: auto;
         text-align: center;
     }
     #content-body{
@@ -253,19 +257,32 @@ hr{
     }
     #left div {
         margin: auto ;
+        max-width: 320px;
+        text-align: center;
     }
     #left img{
         max-width:320px;
+        max-height: 510px;
+    }
+    #left-img{
+        position: absolute;
+        max-height: 510px;
+        margin-left: -130px;
+        margin-top: 0px;
     }
     #Right h3{
-        max-width: 100%;
-        text-align: center;
+        margin: auto;
+        text-align: center;   
     }
     #Right p{
-        max-width: 100%;
-        text-align: center;
-        text-transform: capitalize;
-        }
+        margin: auto;
+        text-align: center;   
+    }
+    #Right p span{
+        margin: auto;
+        text-align: center;   
+    }
+    
     
 }
 @media (min-width:1024px){
