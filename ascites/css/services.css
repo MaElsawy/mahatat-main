@@ -12,10 +12,10 @@ body{
     background: #04243e;
     width: 100%;
     color: #fff;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Group%201261153005.svg);
+    background-image: url('../imgs/Group\ 1261153005.svg');
     background-repeat: no-repeat;
-    background-position: absolute;
-    background-position-x: 1220px ;
+    background-position-x: right;
+    background-position-y: top;
     border: 0;
     padding-bottom: 100px;
 }
