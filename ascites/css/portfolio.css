@@ -11,13 +11,13 @@ body{
 #head{
     background: #04243e;
     width: auto;
-    height: 700px;
     color: #fff;
     background-image: url('../imgs/Group\ 1261153005.svg');
     background-repeat: no-repeat;
     background-position-x: right;
     background-position-y: top;
     border: 0;
+    padding-bottom: 100px;
 }
 #top-head{
     width: auto;
@@ -48,7 +48,7 @@ nav ul li a:hover{
 }
 #down-head h1{
     text-align: center;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 109px;
     font-size: 80px;
     color: #aa915e;
@@ -68,7 +68,8 @@ nav ul li a:hover{
     background: #fff;
     border-radius: 200px 200px 200px 0;
     padding: 80px;
-    padding-top: 120px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     height: 1250px;
 }
 #content h1{

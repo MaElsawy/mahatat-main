@@ -389,7 +389,7 @@ hr{
 }
 #our-services-right-btn-1:hover{
     background: #aa915e;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Arrow%20-%20Left%20Circle.svg);
+    background-image: url('../imgs/Arrow\ -\ Left\ Circle.svg');
     background-repeat: no-repeat;
     background-position-x: 370px;
     background-position-y: 50px ;
@@ -485,7 +485,7 @@ hr{
     padding-top: 100px;
     padding-bottom: 100px;
     color: #fff;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/contact-us.svg);
+    background-image: url('../imgs/contact-us.svg');
     background-repeat: no-repeat;
     background-position-x: 80px;
     background-position-y: 120px;

@@ -48,7 +48,7 @@ nav ul li a:hover{
 }
 #down-head h1{
     text-align: center;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 109.28px;
     font-size: 80px;
     color: #aa915e;
@@ -80,7 +80,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment.svg);
+    background-image: url('..//imgs/Equipment.svg');
     background-repeat: no-repeat;
     background-position-x: 0;
     background-position-y: 0;
@@ -89,7 +89,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-2.svg);
+    background-image: url('..//imgs/Equipment-2.svg');
     background-repeat: no-repeat;
     background-position-x: 635px;
     background-position-y: 0;
@@ -98,7 +98,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-3.svg);
+    background-image: url('..//imgs/Equipment-3.svg');
     background-repeat: no-repeat;
     background-position-x: 0;
     background-position-y: 0;
@@ -107,7 +107,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-4.svg);
+    background-image: url('..//imgs/Equipment-4.svg');
     background-repeat: no-repeat;
     background-position-x: 635px;
     background-position-y: 0;
@@ -116,7 +116,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-5.svg);
+    background-image: url('..//imgs/Equipment-5.svg');
     background-repeat: no-repeat;
     background-position-x: 0;
     background-position-y: 0;
@@ -125,7 +125,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-6.svg);
+    background-image: url('..//imgs/Equipment-6.svg');
     background-repeat: no-repeat;
     background-position-x: 635px;
     background-position-y: 0;
@@ -134,7 +134,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-7.svg);
+    background-image: url('..//imgs/Equipment-7.svg');
     background-repeat: no-repeat;
     background-position-x: 0;
     background-position-y: 0;
@@ -143,7 +143,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-8.svg);
+    background-image: url('..//imgs/Equipment-8.svg');
     background-repeat: no-repeat;
     background-position-x: 635px;
     background-position-y: 0;
@@ -152,7 +152,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-9.svg);
+    background-image: url('..//imgs/Equipment-9.svg');
     background-repeat: no-repeat;
     background-position-x: 0;
     background-position-y: 0;
@@ -161,7 +161,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-10.svg);
+    background-image: url('..//imgs/Equipment-10.svg');
     background-repeat: no-repeat;
     background-position-x: 635px;
     background-position-y: 0;
@@ -170,7 +170,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-11.svg);
+    background-image: url('..//imgs/Equipment-11.svg');
     background-repeat: no-repeat;
     background-position-x: 0;
     background-position-y: 0;
@@ -179,7 +179,7 @@ nav ul li a:hover{
     display: flex;
     justify-content: center;
     margin-top: 50px;
-    background-image: url(file:///D:/task-neop/mahatat/ascites/imgs/Equipment-12.svg);
+    background-image: url('..//imgs/Equipment-12.svg');
     background-repeat: no-repeat;
     background-position-x: 635px;
     background-position-y: 0;
